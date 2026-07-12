@@ -1,0 +1,15 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: jupiter.money
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Nov  4 23:59:59 2026 GMT
+  hsts: false
+domains:
+- domain: jupiter.money
+  dnssec: true
+  caa: []
+  spf: true
+  dmarc: false
