@@ -5,7 +5,7 @@
       "source": "https://jupiter.money/blog/feed/",
       "feed_url": "https://jupiter.money/blog/feed/",
       "title": "",
-      "saved": 0,
+      "saved": 10,
       "method": "feed"
     },
     {
@@ -23,6 +23,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 51,
-  "fetched": "2026-08-06T14:08:46Z"
+  "post_count": 61,
+  "fetched": "2026-08-15T12:11:08Z"
 }
