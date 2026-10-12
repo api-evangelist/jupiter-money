@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/jupiter-money/integrations
+- https://n8n.io/integrations/jupiter-money/
+- https://composio.dev/toolkits/jupiter-money
+- https://monid.ai/tools/jupiter-money
+checked:
+- https://composio.dev/toolkits/jupiter-money
+- https://monid.ai/tools/jupiter-money
+- https://n8n.io/integrations/jupiter-money/
+- https://zapier.com/apps/jupiter-money/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
